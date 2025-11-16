@@ -1,3 +1,7 @@
 # image-compressor
 
-Python-based image optimization tool featuring interactive TUI, batch processing, configurable quality settings, and pngquant integration for superior image compression.
+ImageCompressor is a powerful command-line tool designed for efficient image compression without visible quality loss. The application features an intuitive terminal user interface with keyboard navigation, making it easy to process both individual files and entire directories.
+
+Key capabilities include support for multiple image formats (PNG, JPG, JPEG, BMP, TIFF, WebP), integration with pngquant for optimal PNG compression, customizable quality settings, and detailed compression statistics. The tool achieves up to 70% file size reduction while maintaining visually lossless quality.
+
+Built with Python and Pillow, ImageCompressor runs seamlessly on Windows, Linux, and macOS, offering a professional solution for photographers, web developers, and anyone needing to optimize images efficiently.
